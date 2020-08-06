@@ -1,1 +1,1 @@
-# pipeline-demo-master
+# simple-java-maven-app
